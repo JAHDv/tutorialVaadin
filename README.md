@@ -1,2 +1,2 @@
 # tutorialVaadin
-Aplicación web basica
+Aplicación web basica.
